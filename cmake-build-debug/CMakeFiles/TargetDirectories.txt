@@ -1,0 +1,3 @@
+/home/sadu/CLionProjects/shopping-app/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sadu/CLionProjects/shopping-app/cmake-build-debug/CMakeFiles/shopping_app.dir
+/home/sadu/CLionProjects/shopping-app/cmake-build-debug/CMakeFiles/edit_cache.dir

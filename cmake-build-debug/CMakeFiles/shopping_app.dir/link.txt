@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/shopping_app.dir/main.cpp.o CMakeFiles/shopping_app.dir/helper.cpp.o CMakeFiles/shopping_app.dir/Product.cpp.o  -o shopping_app 

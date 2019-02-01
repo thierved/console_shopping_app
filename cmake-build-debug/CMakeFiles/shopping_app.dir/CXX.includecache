@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sadu/CLionProjects/shopping-app/Product.h
+string
+-
+
+/home/sadu/CLionProjects/shopping-app/helper.cpp
+iostream
+-
+iomanip
+-
+helper.h
+/home/sadu/CLionProjects/shopping-app/helper.h
+Product.h
+/home/sadu/CLionProjects/shopping-app/Product.h
+
+/home/sadu/CLionProjects/shopping-app/helper.h
+vector
+-
+Product.h
+/home/sadu/CLionProjects/shopping-app/Product.h
+
