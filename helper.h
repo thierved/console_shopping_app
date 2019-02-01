@@ -5,8 +5,7 @@
 #include "Product.h"
 
 void printProducts(std::vector<Product> products);
-void buyProduct(std::vector<Product>, std::string id);
-void findById(Product product, std::string id);
+Product findById(std::vector<Product> product, std::string id);
 
 
 

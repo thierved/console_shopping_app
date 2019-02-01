@@ -24,12 +24,10 @@ void printProducts(std::vector<Product> products) {
     std::cout << "***************************************" << '\n';
 }
 
-void buyProduct(std::vector<Product> &shoppingCart, Product product) {
-    shoppingCart.push_back(product);
-}
 
 Product findById(std::vector<Product> products, std::string id) {
     for(const Product &p: products) {
         if(p.getCode() == id) return  p;
     }
 }
+
